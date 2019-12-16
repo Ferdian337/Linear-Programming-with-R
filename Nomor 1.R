@@ -1,5 +1,5 @@
 #Ferdian Nursulistio (18523149)
-#Muhammad Fiqhi Ramadhan (18523150)
+
 # Import lpSolve package
 library(lpSolve)
 
